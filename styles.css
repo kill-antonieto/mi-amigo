@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f2f2f2; /* Color de fondo opcional */
+    background-color: #000; /* Fondo negro */
 }
 
 .content {
@@ -13,11 +13,11 @@ body {
 }
 
 h1 {
-    font-size: 2em; /* Tamaño del texto */
-    color: #333; /* Color del texto */
+    font-size: 2em;
+    color: #ff0000; /* Texto rojo */
 }
 
 img {
-    max-width: 100%; /* Ajusta el tamaño máximo de la imagen al contenedor */
-    margin-top: 20px; /* Ajusta el margen superior según tu preferencia */
+    max-width: 100%;
+    margin-top: 20px;
 }
